@@ -2,8 +2,7 @@
 ##### Biz consulting sales performance dashboard
 ###### This project is a Sales Performance Dashboard for Biz Consulting. It helps track and analyze sales metrics, enabling better decision-making to improve sales performance.
 
-     ###### *Project Steps
-
+###### *Project Steps
 Data Cleaning: Clean and preprocess the raw data to ensure it is accurate and usable.
 
 Data Visualization: Create visualizations to understand trends and patterns in the sales data.
